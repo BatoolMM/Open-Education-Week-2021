@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-family: 'Fraunces', serif;
-  font-weight: 200;
+  font-weight: 700;
   color: #212529;
 }
 
@@ -31,6 +31,8 @@ h5 {
   font-family: 'Commissioner', sans-serif;
   font-weight: 400;
   color: #212529;
+  font-size: 1.6em;
+
 }
 
 h6 {
@@ -45,6 +47,7 @@ h4 {
   font-weight: 700;
   color: #121417;
 }
+
 
 .remark-code,
 .remark-inline-code{ 
