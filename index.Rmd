@@ -30,6 +30,7 @@ library(xaringan)
 
 ```{r share-again, echo=FALSE}
 xaringanExtra::use_share_again()
+xaringanExtra::use_tachyons()
 ```
 
 class: title-slide, center, top
@@ -43,7 +44,44 @@ background-size: 100%
 
 ### `r rmarkdown::metadata$subtitle`
 
-### `r rmarkdown::metadata$author`- @batool664
+##### `r rmarkdown::metadata$author`- @batool664
 
 ---
 
+class: center, middle
+### What is Open Science?
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+In a nutshell, Open Science describes an on-going movement in the way research is performed, researchers collaborate, knowledge is shared, and science is organised. It affects the whole research cycle and its stakeholders, enhances science by facilitating more transparency, openness, networking and collaboration.
+
+.tr[
+— OpenAIRE
+]]
+
+---
+class: center, middle
+## UNISC
+
+---
+class: center, middle
+
+
+---
+class: center, middle
+
+
+---
+class: center, middle
+
+
+---
+class: center, middle
+
+## Are you a researcher from the Middle East?
+
+## Are you an adovocate for Open Science?
+
+Come and join me last Friday every month at 2:00pm UTC
+
+Zoom link:
+
+---
