@@ -1,6 +1,6 @@
 ---
-title: "title"
-subtitle: "subtitle"
+title: "Adoption of Open Science in The Middle East"
+subtitle: "Open Science Community in Saudi Arabia"
 author: "Batool Almarzouq"
 institute: ""
 date: "(updated: `r Sys.Date()`)"
@@ -21,7 +21,6 @@ output:
       countIncrementalSlides: false
       ratio: "16:9"
 ---
-
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE, servr.interval = 0.05)
 knitr::opts_chunk$set(collapse = TRUE, fig.retina = 3)
@@ -34,15 +33,17 @@ xaringanExtra::use_share_again()
 ```
 
 class: title-slide, center, top
-background-image: url(figs/landing2.png)
+background-image: url(figs/landing2.jpeg)
 background-size: contain
-background-position: bottom
-background-size: 90%
+background-position: center
+background-size: 100%
 
 
 #### `r rmarkdown::metadata$title`
 
-#### `r rmarkdown::metadata$author`- @batool664
+### `r rmarkdown::metadata$subtitle`
+
+### `r rmarkdown::metadata$author`- @batool664
 
 ---
 
