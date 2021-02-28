@@ -28,6 +28,7 @@ library(xaringanExtra)
 library(xaringan)
 ```
 
+
 ```{r share-again, echo=FALSE}
 xaringanExtra::use_share_again()
 xaringanExtra::use_tachyons()
@@ -42,14 +43,14 @@ background-size: 100%
 
 #### `r rmarkdown::metadata$title`
 
-### `r rmarkdown::metadata$subtitle`
+##### `r rmarkdown::metadata$subtitle`
 
-##### `r rmarkdown::metadata$author`- @batool664
+##### `r rmarkdown::metadata$author`
 
 ---
 
 class: center, middle
-### What is Open Science?
+#### What is Open Science?
 .bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
 In a nutshell, Open Science describes an on-going movement in the way research is performed, researchers collaborate, knowledge is shared, and science is organised. It affects the whole research cycle and its stakeholders, enhances science by facilitating more transparency, openness, networking and collaboration.
 
@@ -65,21 +66,74 @@ background-position: center
 
 .left[.footnote[The image is taken from "Pontika et al (2015). Fostering Open Science to Research using a Taxonomy and an eLearning Portal. In: iKnow: 15th International Conference on Knowledge Technologies and Data Driven Business, 21-22 Oct 2015, Graz, Austria. DOI: https://doi.org/10.1145/2809563.2809571"]]
 ---
-
 class: center, middle
+background-image: url(figs/reproducibility-circle2.png)
+background-size: 75%
+background-color: #f3f3f3
 
-There is an increasing number of Open Science Communities in Europe
+class: top
+#### Open Science aims to fix the "Reproducibility Crisis" in Science
 
----
-class: center, middle
-## UNISC
+.footnote[Credit: Key results of the survey on reproducibility conducted by Nature in 2016]
 
 ---
 class: center, middle, inverse
+###### After the panadamic, 193 countries gathered in Paris for the 40th session of the UNESCO’s General Conference, and decided to embark a new global normative instrument on Open Science. It's referred to as the "UNESCO Recommendation on Open Science". 
 
-###### This community is supported by Open Life Science Programme, UK
+--
 
-###### Batool Almarzouq, Anelda Van der Walt and Paula Morga
+###### This process is expected to lead to the adoption of the recommendation by UNESCO Member States in 2021. 
+
+.left[.footnote[Credit: [UNESCO Takes the Lead in Developing a New Global Standard-setting Instrument on Open Science](https://en.unesco.org/news/unesco-takes-lead-developing-new-global-standard-setting-instrument-open-science)]]
+---
+
+class: center, middle, inverse
+
+###### Therefore, there is an increasing number of Open Science Communities in Europe
+
+--
+
+###### A huge network of Open Science Communities is in the Netherlands, Sweden, Germany, UK and many other countries ...
+
+--
+
+###### BUT Open Science movement is not yet adopted in the Middle East
+
+---
+
+class: center, middle, inverse
+###### In 2021, We started an Open Science Community in Saudi Arabia
+
+--
+
+###### We are in the process of re-designing Open Science for Saudi Arabia and hopefully to the other counteries in the Middle East
+
+<img src="figs/5.jpg" width=50%>
+
+
+---
+
+class: center, middle
+
+#### Our Vision statement 
+
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia
+
+.tr[
+— Open Science community in Saudi Arabia 
+]]
+
+---
+
+class: center, middle
+
+#### The Open Science community in Saudi Arabia is supported by [Open Life Science Programme](https://openlifesci.org/)
+
+##### Led by Batool Almarzouq, Anelda Van der Walt and Paula Moraga
+
+<img src="figs/open-lif-sci-logo.jpeg">
+
 
 ---
 class: center, middle
@@ -88,34 +142,61 @@ class: center, middle
 We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia
 
 .tr[
-— Open Science community - Saudi Arabia 
+— Open Science community in Saudi Arabia 
 ]]
 
 ---
 
 class: center, middle
 
-Example of our activities this year:
+## Examples of our activities this year
 
-  1- A talk in the Sauda Data Community.
+##### - A workshop in Women in Data Science (WiDS2021) in Saudi Arabia, under the title ["Collaborating on Open Data Science Projects"](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/).
 
-  2- A workshop in Women in Data Science (WiDS2021) in Saudi Arabia.
+##### - A talk titled ["An Open Science Approach to Machine Learning in Biomedical Research"](https://saudi-data-community.netlify.app/#1) in the Saudi Data Community.
 
-.left[.footnote[All of our work is available online]]
+.left[.footnote[All of our work is citable and avilable in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20)]]
 
 ---
-class: center, middle
+class: center, middle, inverse
 
 ## Are you a researcher from the Middle East?
 
-## Are you an adovocate for Open Science?
+--
 
-Come and join me last Friday every month at 2:00pm UTC
+## Or anywhere in the globe!
 
-Zoom link:
+--
+
+## Are you an advocate for Open Science?
+
+--
+
+## Or just want to learn more!
+
+--
+
+Come and join me for informal Chat on every last Friday each month at 2:00pm UTC
+
+Zoom link: https://liverpool-ac-uk.zoom.us/j/91493007481?pwd=UHlJc2swTnBqdU0rT0tjN3c0aC9SUT09, Passcode: @YEAR2021
 
 ---
-## References:
+class: middle
+## Further References:
 
+##### - [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)
+
+##### - [UNESCO Takes the Lead in Developing a New Global Standard-setting Instrument on Open Science](https://en.unesco.org/news/unesco-takes-lead-developing-new-global-standard-setting-instrument-open-science)
+
+##### - [EC policies and mandates on Open Access to publications and research data,  FAIR data](https://www.openaire.eu/ec-policies-and-mandates)
+---
+
+class: middle, center, inverse
+
+## Thank you so much for reaching the end!
+
+###### Contact: Batool Almarzouq
+###### Email: batool@liverpool.ac.uk, Twitter: @batool664
+###### The source code for these the slides is [available on GitHub](https://github.com/BatoolMM/Open-Education-Week-2021)
 
 ---
