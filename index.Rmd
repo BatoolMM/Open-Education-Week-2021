@@ -58,20 +58,50 @@ In a nutshell, Open Science describes an on-going movement in the way research i
 ]]
 
 ---
+class: center
+background-image: url(figs/Open_science_taxonomy.png)
+background-size: contain
+background-position: center
+
+.left[.footnote[The image is taken from "Pontika et al (2015). Fostering Open Science to Research using a Taxonomy and an eLearning Portal. In: iKnow: 15th International Conference on Knowledge Technologies and Data Driven Business, 21-22 Oct 2015, Graz, Austria. DOI: https://doi.org/10.1145/2809563.2809571"]]
+---
+
+class: center, middle
+
+There is an increasing number of Open Science Communities in Europe
+
+---
 class: center, middle
 ## UNISC
 
 ---
-class: center, middle
+class: center, middle, inverse
 
+###### This community is supported by Open Life Science Programme, UK
+
+###### Batool Almarzouq, Anelda Van der Walt and Paula Morga
 
 ---
 class: center, middle
 
+.bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
+We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia
+
+.tr[
+— Open Science community - Saudi Arabia 
+]]
 
 ---
+
 class: center, middle
 
+Example of our activities this year:
+
+  1- A talk in the Sauda Data Community.
+
+  2- A workshop in Women in Data Science (WiDS2021) in Saudi Arabia.
+
+.left[.footnote[All of our work is available online]]
 
 ---
 class: center, middle
@@ -83,5 +113,9 @@ class: center, middle
 Come and join me last Friday every month at 2:00pm UTC
 
 Zoom link:
+
+---
+## References:
+
 
 ---
