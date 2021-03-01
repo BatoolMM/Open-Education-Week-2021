@@ -107,7 +107,7 @@ class: center, middle, inverse
 
 --
 
-###### We are in the process of re-designing Open Science for Saudi Arabia and hopefully be adobted by the other counteries in the Middle East
+###### We are in the process of re-designing Open Science for Saudi Arabia to  potentially be adobted by the other counteries in the Middle East
 
 <img src="figs/5.jpg" width=50%>
 
@@ -135,16 +135,16 @@ We want to create a space in Saudi Arabia where newcomers and seasoned peers can
 — Open Science community in Saudi Arabia 
 ]]
 
-.left[.footnote["The vision is largely inspired by the the vision of the International Network of Open Science/Scholarship Communities (INOSC)"]]
+.left[.footnote["The vision is largely inspired by the the vision of the International Network of Open Science Communities (INOSC)"]]
 ---
 
-class: center, middle
+class: center, middle, inverse
 
-## Examples of our activities this year
+## Examples of our activities in Feb 2020
 
-##### - A workshop in Women in Data Science (WiDS2021) in Saudi Arabia, under the title ["Collaborating on Open Data Science Projects"](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/).
+###### - A workshop in Women in Data Science (WiDS2021) in Saudi Arabia, under the title ["Collaborating on Open Data Science Projects"](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/).
 
-##### - A talk titled ["An Open Science Approach to Machine Learning in Biomedical Research"](https://saudi-data-community.netlify.app/#1) in the Saudi Data Community.
+###### - A talk titled ["An Open Science Approach to Machine Learning in Biomedical Research"](https://saudi-data-community.netlify.app/#1) in the Saudi Data Community.
 
 .left[.footnote[All of our work is citable and available in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20)]]
 
