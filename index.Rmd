@@ -175,12 +175,20 @@ Come and join me for informal Chat on every last Friday each month at 2:00pm UTC
 Zoom link: https://liverpool-ac-uk.zoom.us/j/91493007481?pwd=UHlJc2swTnBqdU0rT0tjN3c0aC9SUT09, Passcode: @YEAR2021
 
 ---
+class: center, middle
+background-color: #FFFFFF
+
+<img src="figs/balance.jpg" width=100%>
+
+---
 class: middle
 ## Further References:
 
 ##### - [Redesign open science for Asia, Africa and Latin America](https://www.nature.com/articles/d41586-020-03052-3)
 
 ##### - [UNESCO Takes the Lead in Developing a New Global Standard-setting Instrument on Open Science](https://en.unesco.org/news/unesco-takes-lead-developing-new-global-standard-setting-instrument-open-science)
+
+##### - [The Turing Way: A guide to reproducible and collaborative data science](https://the-turing-way.netlify.app/welcome.html)
 
 ##### - [EC policies and mandates on Open Access to publications and research data,  FAIR data](https://www.openaire.eu/ec-policies-and-mandates)
 ---
