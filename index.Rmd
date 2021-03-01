@@ -107,7 +107,7 @@ class: center, middle, inverse
 
 --
 
-###### We are in the process of re-designing Open Science for Saudi Arabia and hopefully to the other counteries in the Middle East
+###### We are in the process of re-designing Open Science for Saudi Arabia and hopefully be adobted by the other counteries in the Middle East
 
 <img src="figs/5.jpg" width=50%>
 
@@ -116,7 +116,7 @@ class: center, middle, inverse
 
 class: center, middle, inverse
 
-###### The Open Science community in Saudi Arabia is supported by [Open Life Science Programme](https://openlifesci.org/)
+###### The Open Science Community in Saudi Arabia is supported by [Open Life Science Programme](https://openlifesci.org/)
 
 ###### Led by Batool Almarzouq, Anelda Van der Walt and Paula Moraga
 
@@ -129,12 +129,13 @@ class: center, middle
 #### Our Vision statement 
 
 .bg-washed-blue.b--light-blue.ba.bw2.br3.shadow-5.ph4.mt5[
-We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia
+We want to create a space in Saudi Arabia where newcomers and seasoned peers can connect, inspire each other, and provide input on policies and infrastructures. Working together to make Open Science the norme. So, we are calling out to researchers and colleagues in Saudi Arabia
 
 .tr[
 — Open Science community in Saudi Arabia 
 ]]
 
+.left[.footnote["The vision is largely inspired by the the vision of the International Network of Open Science/Scholarship Communities (INOSC)"]]
 ---
 
 class: center, middle
