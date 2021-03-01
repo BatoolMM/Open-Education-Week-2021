@@ -35,10 +35,12 @@ xaringanExtra::use_tachyons()
 ```
 
 class: title-slide, center, top
-background-image: url(figs/landing2.jpeg)
+background-image: url(figs/landing11.jpg)
 background-size: contain
-background-position: center
-background-size: 100%
+background-size: 50%
+background-position: bottom
+background-color: #FFFFFF
+
 
 
 #### `r rmarkdown::metadata$title`
