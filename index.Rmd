@@ -135,10 +135,15 @@ class: center, middle
 We want to create a space in Saudi Arabia where newcomers and seasoned peers can connect, inspire each other, and provide input on policies and infrastructures. Working together to make Open Science the norme. So, we are calling out to researchers and colleagues in Saudi Arabia
 
 .tr[
-— Open Science community in Saudi Arabia 
+— The Open Science community in Saudi Arabia 
 ]]
 
 .left[.footnote["The vision is largely inspired by the the vision of the International Network of Open Science Communities (INOSC)"]]
+---
+class: center, middle
+background-color: #FFFFFF
+
+<img src="figs/balance.jpg" width=100%>
 ---
 
 class: center, middle, inverse
@@ -175,12 +180,8 @@ Come and join me for informal Chat on every last Friday each month at 2:00pm UTC
 Zoom link: https://liverpool-ac-uk.zoom.us/j/91493007481?pwd=UHlJc2swTnBqdU0rT0tjN3c0aC9SUT09, Passcode: @YEAR2021
 
 ---
-class: center, middle
-background-color: #FFFFFF
 
-<img src="figs/balance.jpg" width=100%>
 
----
 class: middle
 ## Further References:
 
