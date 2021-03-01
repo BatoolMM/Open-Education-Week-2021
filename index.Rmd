@@ -1,5 +1,5 @@
 ---
-title: "Adoption of Open Science in The Middle East"
+title: "The Adoption of Open Science in The Middle East"
 subtitle: "Open Science Community in Saudi Arabia"
 author: "Batool Almarzouq"
 institute: ""
@@ -76,7 +76,7 @@ background-color: #f3f3f3
 class: top
 #### Open Science aims to fix the "Reproducibility Crisis" in Science
 
-.footnote[Credit: Key results of the survey on reproducibility conducted by Nature in 2016]
+.footnote[Credit: Key results of the survey on reproducibility conducted by [Nature in 2016](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)]
 
 ---
 class: center, middle, inverse
@@ -202,4 +202,9 @@ class: middle, center, inverse
 ###### Email: batool@liverpool.ac.uk, Twitter: @batool664
 ###### The source code for these the slides is [available on GitHub](https://github.com/BatoolMM/Open-Education-Week-2021)
 
----
+
+```{r include=FALSE}
+pagedown::chrome_print("index.html",output="index.pdf")
+
+```
+
