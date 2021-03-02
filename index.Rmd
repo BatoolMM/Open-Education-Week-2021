@@ -146,16 +146,27 @@ background-color: #FFFFFF
 
 <img src="figs/balance.jpg" width=100%>
 ---
-
 class: center, middle, inverse
 
 ## Examples of our activities in Feb 2021
 
 ###### - A workshop in Women in Data Science (WiDS2021) in Saudi Arabia, under the title ["Collaborating on Open Data Science Projects"](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/)
 
+<img src="figs/workshop.jpg" width=50%>
+
+
+.left[.footnote[All of our work is citable and available in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20)and GitHub]]
+---
+
+class: center, middle, inverse
+## Examples of our activities in Feb 2021
+
 ###### - A talk titled ["An Open Science Approach to Machine Learning in Biomedical Research"](https://saudi-data-community.netlify.app/#1) in the Saudi Data Community.
 
-.left[.footnote[All of our work is citable and available in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20)]]
+<img src="figs/sauditalk.jpg" width=50%>
+
+.left[.footnote[All of our work is citable and available in [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20) and GitHub]]
+
 
 ---
 class: center, middle, inverse
