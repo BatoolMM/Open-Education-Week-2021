@@ -8,7 +8,7 @@ or a [pull request](https://github.com/Open-Science-Community-Saudi-Arabia/Open-
 1. Check that there isn't [already an issue](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Education-Week-2021/issues) about your idea to avoid duplicating work.
     * If there isn't one already, please create one so that others know you're working on this
 
-2. Fork the [Open-Science-Community-Saudi-Arabia/Open-Science-Community-in-Saudi](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Education-Week-2021/) to your GitHub account.
+2. Fork the [Open-Science-Community-Saudi-Arabia/Open-Education-Week-2021](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Education-Week-2021/) to your GitHub account.
 
 3. Clone the forked repository on your local machine.
 
